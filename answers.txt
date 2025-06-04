@@ -14,3 +14,7 @@ Q3: What is the difference between Merging and Rebasing?
 Answer: For Merging, the changes from the source branch is combined into the target branch. 
     For Rebasing, the changes are actually moved from the source branch to the target branch.
     Merging also preserves the history, while Rebasing overwrites it.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning about data science and AI/ML and seeing if it is a potential career path for me or not.
