@@ -8,3 +8,9 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Healthcare. For example, analyzing patient data and predicting risk of diseases for certain patients, etc.
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: For Merging, the changes from the source branch is combined into the target branch. 
+    For Rebasing, the changes are actually moved from the source branch to the target branch.
+    Merging also preserves the history, while Rebasing overwrites it.
